@@ -1,1 +1,2 @@
-zzssssZZ
+<?php 
+echo 'hello';
